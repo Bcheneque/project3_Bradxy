@@ -135,4 +135,7 @@ color:darkmagenta;}
   clear: both;
   display: table;
 }
-
+#othercolor{
+font-size:20px;
+    color: darkslateblue;
+}
